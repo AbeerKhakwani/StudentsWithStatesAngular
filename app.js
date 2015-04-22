@@ -10,7 +10,5 @@ courseRoster.config(function($stateProvider) {
         url:"/courses",
         templateUrl:"partials/courses.html",
         controller:'CoursesCtrl'
-
-
     });
 });
